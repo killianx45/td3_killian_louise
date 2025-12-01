@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 cd /home/killian/www/td3_killian_louise
